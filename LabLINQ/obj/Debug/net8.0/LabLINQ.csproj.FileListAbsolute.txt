@@ -1,0 +1,42 @@
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\bin\Debug\net8.0\LabLINQ.exe
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\bin\Debug\net8.0\LabLINQ.deps.json
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\bin\Debug\net8.0\LabLINQ.runtimeconfig.json
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\bin\Debug\net8.0\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\bin\Debug\net8.0\LabLINQ.pdb
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfoInputs.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfo.cs
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.csproj.CoreCompileInputs.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\refint\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.pdb
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\LabLINQ.genruntimeconfig.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\1\LabLINQ\obj\Debug\net8.0\ref\LabLINQ.dll
+C:\Users\7401\Desktop\44444444444444\LabLINQ\bin\Debug\net8.0\LabLINQ.exe
+C:\Users\7401\Desktop\44444444444444\LabLINQ\bin\Debug\net8.0\LabLINQ.deps.json
+C:\Users\7401\Desktop\44444444444444\LabLINQ\bin\Debug\net8.0\LabLINQ.runtimeconfig.json
+C:\Users\7401\Desktop\44444444444444\LabLINQ\bin\Debug\net8.0\LabLINQ.dll
+C:\Users\7401\Desktop\44444444444444\LabLINQ\bin\Debug\net8.0\LabLINQ.pdb
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfoInputs.cache
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfo.cs
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.csproj.CoreCompileInputs.cache
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.dll
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\refint\LabLINQ.dll
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.pdb
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\LabLINQ.genruntimeconfig.cache
+C:\Users\7401\Desktop\44444444444444\LabLINQ\obj\Debug\net8.0\ref\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\bin\Debug\net8.0\LabLINQ.exe
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\bin\Debug\net8.0\LabLINQ.deps.json
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\bin\Debug\net8.0\LabLINQ.runtimeconfig.json
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\bin\Debug\net8.0\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\bin\Debug\net8.0\LabLINQ.pdb
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfoInputs.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.AssemblyInfo.cs
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.csproj.CoreCompileInputs.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\refint\LabLINQ.dll
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.pdb
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\LabLINQ.genruntimeconfig.cache
+E:\Desktop\dumb trash or smth\2\СМОО\labs\2\LabLINQ\obj\Debug\net8.0\ref\LabLINQ.dll
