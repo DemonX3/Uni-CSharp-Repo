@@ -1,0 +1,27 @@
+﻿<Window x:Class="labWPF1.WindowsTask1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labWPF1"
+        mc:Ignorable="d"
+        Title="Tasks 1-3" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="PanelTask1">
+            <Button x:Name="HelloButton" Content="Hello" Margin="5" Click="ClickButtonHello" />
+            <Button x:Name="GoodbyeButton" Content="Goodbye" Margin="5" Click="ClickButtonGoodbye" />
+            <Label x:Name="LabelTask1" Content="Task start" Margin="5" />
+        </StackPanel>
+        <StackPanel x:Name="PanelTask2" Margin="0,95,0,0">
+            <Button x:Name="HideButton2" Content="Hide" Margin="5" Click="ClickButtonHide2" />
+            <Button x:Name="ShowButton2" Content="Show" Margin="5" Click="ClickButtonShow2" />
+            <TextBlock x:Name="TextBlockTask2" Text="Sample text" />
+        </StackPanel>
+        <StackPanel x:Name="PanelTask3" Margin="0,185,0,0">
+            <Button x:Name="HideButton3" Content="Hide" Margin="5" Click="ClickButtonHide3" />
+            <Button x:Name="ShowButton3" Content="Show" Margin="5" Click="ClickButtonShow3" />
+            <Button x:Name="ClearButton3" Content="Clear" Margin="5" Click="ClickButtonClear3" />
+            <TextBox x:Name="TextBoxTask3" Text="Write here" />
+        </StackPanel>
+    </Grid>
+</Window>

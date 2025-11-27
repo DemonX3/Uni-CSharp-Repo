@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace labWPF1
+{
+    /// <summary>
+    /// Interaction logic for WindowTask6.xaml
+    /// </summary>
+    public partial class WindowTask6 : Window
+    {
+        public WindowTask6()
+        {
+            InitializeComponent();
+        }
+
+        private void WrapPanelSizeChanged(object sender, SizeChangedEventArgs e)
+        {
+            Thickness margin;
+            margin.Right = this.ActualWidth / 3;
+            Task6Panel.Margin = margin;
+        }
+    }
+}

@@ -1,0 +1,44 @@
+﻿<Window x:Class="labWPF1.WindowTask6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labWPF1"
+        mc:Ignorable="d"
+        Title="Evil Window" Height="450" Width="800">
+    <Grid>
+        <WrapPanel x:Name="Task6Panel" Orientation="Horizontal" SizeChanged="WrapPanelSizeChanged">
+            <Button Content="Crimson" TextElement.Foreground="Crimson" Margin="2" />
+            <Button Content="DarkCyan" TextElement.Foreground="DarkCyan" Margin="2" />
+            <Button Content="ForestGreen" TextElement.Foreground="ForestGreen" Margin="2" />
+            <Button Content="MediumVioletRed" TextElement.Foreground="MediumVioletRed" Margin="2" />
+            <Button Content="SteelBlue" TextElement.Foreground="SteelBlue" Margin="2" />
+            <Button Content="Orange" TextElement.Foreground="Orange" Margin="2" />
+            <Button Content="DarkSalmon" TextElement.Foreground="DarkSalmon" Margin="2" />
+            <Button Content="LimeGreen" TextElement.Foreground="LimeGreen" Margin="2" />
+            <Button Content="Indigo" TextElement.Foreground="Indigo" Margin="2" />
+            <Button Content="Gold" TextElement.Foreground="Gold" Margin="2" />
+            <Button Content="MediumOrchid" TextElement.Foreground="MediumOrchid" Margin="2" />
+            <Button Content="SeaGreen" TextElement.Foreground="SeaGreen" Margin="2" />
+            <Button Content="DarkGoldenrod" TextElement.Foreground="DarkGoldenrod" Margin="2" />
+            <Button Content="RoyalBlue" TextElement.Foreground="RoyalBlue" Margin="2" />
+            <Button Content="Coral" TextElement.Foreground="Coral" Margin="2" />
+            <Button Content="LightGreen" TextElement.Foreground="LightGreen" Margin="2" />
+            <Button Content="Navy" TextElement.Foreground="Navy" Margin="2" />
+            <Button Content="Tan" TextElement.Foreground="Tan" Margin="2" />
+            <Button Content="Plum" TextElement.Foreground="Plum" Margin="2" />
+            <Button Content="Turquoise" TextElement.Foreground="Turquoise" Margin="2" />
+            <Button Content="DarkOrange" TextElement.Foreground="DarkOrange" Margin="2" />
+            <Button Content="MediumSeaGreen" TextElement.Foreground="MediumSeaGreen" Margin="2" />
+            <Button Content="SlateBlue" TextElement.Foreground="SlateBlue" Margin="2" />
+            <Button Content="Khaki" TextElement.Foreground="Khaki" Margin="2" />
+            <Button Content="LavenderBlush" TextElement.Foreground="LavenderBlush" Margin="2" />
+            <Button Content="Teal" TextElement.Foreground="Teal" Margin="2" />
+            <Button Content="Firebrick" TextElement.Foreground="Firebrick" Margin="2" />
+            <Button Content="SpringGreen" TextElement.Foreground="SpringGreen" Margin="2" />
+            <Button Content="MidnightBlue" TextElement.Foreground="MidnightBlue" Margin="2" />
+            <Button Content="PeachPuff" TextElement.Foreground="PeachPuff" Margin="2" />
+            <Button Content="DarkMagenta" TextElement.Foreground="DarkMagenta" Margin="2" />
+        </WrapPanel>
+    </Grid>
+</Window>
